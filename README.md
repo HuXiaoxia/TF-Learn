@@ -15,4 +15,21 @@
    
 三、MNIST-TF
 
-   mnist.py
+   mnist.py  用tensorflow实现的卷积网络并在MNIST数据集上训练文件。
+   MNIST_data  MNIST数据集。
+
+四、Resnets_models
+   Resnets_TF.py
+五、vgg16_models       用
+VGG16_TF.py
+vgg16_keras.py
+vgg16_tflayers.py
+
+format_conversion.py
+restore.py
+test.py
+test_lr.py
+train.py
+train_vgg_keras.py
+utils.py
+
