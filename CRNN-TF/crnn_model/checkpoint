@@ -1,0 +1,6 @@
+model_checkpoint_path: "crnn_ctc_ocr_2019-05-22-14-50-04.ckpt-2589"
+all_model_checkpoint_paths: "crnn_ctc_ocr_2019-05-22-14-50-04.ckpt-1553"
+all_model_checkpoint_paths: "crnn_ctc_ocr_2019-05-22-14-50-04.ckpt-1812"
+all_model_checkpoint_paths: "crnn_ctc_ocr_2019-05-22-14-50-04.ckpt-2071"
+all_model_checkpoint_paths: "crnn_ctc_ocr_2019-05-22-14-50-04.ckpt-2330"
+all_model_checkpoint_paths: "crnn_ctc_ocr_2019-05-22-14-50-04.ckpt-2589"
