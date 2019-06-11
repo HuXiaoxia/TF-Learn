@@ -32,17 +32,18 @@
    vgg16_tflayers.py    -----tensorflow.layers实现的vgg16网络。
 
 六、
-   format_conversion.py
+
+   format_conversion.py    -----tensorflow几种模型之间的转换。
    
-   restore.py
+   restore.py    -----tensorflow几种模型的加载方式，包含使用tensorboard查看网络结构方式。
    
-   test.py
+   test.py    -----
    
-   test_lr.py
+   test_lr.py    -----学习率设置方式测试。
    
-   train.py
+   train.py    -----vgg16分类训练。
    
-   train_vgg_keras.py
+   train_vgg_keras.py    -----keras的VGG16分类训练。
    
-   utils.py
+   utils.py    -----一些处理函数文件。
 
